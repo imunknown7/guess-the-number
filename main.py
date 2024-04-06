@@ -4,6 +4,7 @@ i = 0
 while i < 3:
     guess = int(input("Guess > "))
     if guess == number:
+        i += 1
         print("Correct!")
         break
     else:

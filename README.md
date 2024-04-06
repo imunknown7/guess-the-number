@@ -1,2 +1,2 @@
-# RPS
-Basic rock paper scissors game made using python!
+# Guess the number
+Basic guess the number game made using python!
